@@ -24,12 +24,12 @@ github_username:  nicole-caldwell
 stackoverflow_shorturl: 6987325/nicole-caldwell
 facebook_username: nbusby
 instagram_username: nicolebicolecole
-linkedin_username: nicoleabusby
+linkedin_username: nicoleatcaldwell
 pinterest_username: loveyourname
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
