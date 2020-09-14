@@ -26,7 +26,7 @@ Send a mail: nicoleannecaldwell aaaaaat g g g g mail
 * [Goodreads nicole-caldwell](https://www.goodreads.com/user/show/2106853-nicole-caldwell)
 * [Instagram nicolebicolecole](https://instagram.com/nicolebicolecole)
 * [Leetcode nicole-caldwell](https://leetcode.com/nicole-caldwell/)
-* [Linkedin nicoleatcaldwell](https://www.linkedin.com/in/nicoleabusby)
+* [Linkedin nicoleatcaldwell](https://www.linkedin.com/in/nicoleatcaldwell)
 * [Pinterest loveyourname](https://www.pinterest.com/loveyourname)
 * [Stackoverflow nicole-busby](https://stackexchange.com/users/6987325/nicole-busby)
 * [Twitter nicolecodes](https://www.twitter.com/nicolecodes)
