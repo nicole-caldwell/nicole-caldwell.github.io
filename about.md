@@ -1,8 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
 ---
+
 
 I work on the Amazon Flex Account Management team.   [flex.amazon.com](https://flex.amazon.com)
 

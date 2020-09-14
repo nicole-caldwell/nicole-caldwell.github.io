@@ -1,8 +1,8 @@
 ---
-layout: post
-title: I Failed my Tech Internship
-permalink: /i-failed-my-tech-internship/
+layout: default
 ---
+
+# I Failed my Tech Internship
 
 When I didn't get a full-time return offer, I found there was very little online to help me and it made me feel even worse than I already did. I survived it and lived to tell the tale. If you would like to see other inspiring tales of overcoming rejection in the technology industry, look at Rejected.us. My personal advice is below.
 
@@ -47,3 +47,7 @@ You should not talk about not getting a return offer unless asked. Most likely t
 Usually recruiters will get this out of you by asking if you have any pending offers, so they know whether to expedite your interview process. I didn't know at the time that they weren't out to get me and that hiring a developer pays for itself many times over, to them, so if anything they want to be kind.
 
 My nervousness explaining some weird in-one-year-I-can-interview-again story to one recruiter probably did more harm than good. I also get recruiting emails from that company I told this story to a few months later, so in the end it didn't matter. Point is, you should prepare your answer ahead of time for questions like these. Companies like grown-ups. Your answer should be honest, rehearsed, concise, and possibly what sets you apart.
+
+
+[back](./)
+---

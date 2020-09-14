@@ -1,8 +1,9 @@
 ---
-layout: post
-title: What I Learned from Programmer Parents
-permalink: /what-i-learned-from-programmer-parents/
+layout: default
 ---
+
+# What I Learned from Programmer Parents
+
 
 Some people wonder where I got this idea to become a computer programmer.  Well, my parents both were.  Here's some lessons from them that I would like to share to spread the wisdom.  My mom passed away in February 2016 after I wrote this post initially, so I'll try not to modify her section unless I'm editing for clarity or adding memories to it.
 
@@ -22,3 +23,6 @@ Some people wonder where I got this idea to become a computer programmer.  Well,
 - "In business, you never want to say the market will go a certain way. You say 'Given XYZ about ABC, this will increase our AXY by X%' so then if they come back and say your prediction was incorrect, you can point out that XYZ was not true about ABC, therefore your forecast was still correct." This is more what he learned in business school, but I found it useful when weighing different technologies to use, for example.
 - "I don't ask twice" this is more of a life thing, but I found this useful in opportunities that come up. If someone wants you to join their startup and you are really passionate about it, don't turn it down thinking it will always be there, because it probably won't be and definitely won't be in the same state it was when you were originally asked to join.
 - Grammar is very important. I don't have a specific quote, but my dad silently judges someone (and loudly judges his children) if he hears them say "Him and me are going to go to the store"... or even "Bob and me are going to the store". The english standard is very important to him and I should have learned from this that everyone has their own thing they personally fight for in their technology standards at work. For example, I was burned by not reading the style guidelines before submitting a code review in a new coding language. It is pretty awful to be linked the first result of a search for a coding language's style guidelines in a code review and it wasted a lot of time I could have saved if I only took my dad's advice and judged myself loudly for looking up the standard style in the language I was writing code in beforehand.
+
+[back](./)
+---
