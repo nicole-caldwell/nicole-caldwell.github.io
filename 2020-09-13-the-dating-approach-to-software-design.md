@@ -40,9 +40,7 @@ I quit just before working at Amazon and that ended up being the best choice.  B
 
 I always had very strong opinions when I dumped someone or was dumped, about what was good and bad about the person.
 
-"How will I take how confident I was at dating, to work?"  I thought.
-
-I always had very strong opinions when I dumped someone or was dumped, about what was good and bad about the person.
+"How will I capture my confident attitude towards dating, and bring it to work?"  I thought.
 
 When meeting someone, my opinions would be confident no matter what the situation:
 
@@ -52,8 +50,6 @@ their need to feel like they're being shown off."
 "They are 100 times more attractive than I am, so it's just not going to work for my need to be shown off and
 their need to show me off."
 
-I gathered data in my dates.
-
 Here's an example need I had: My life partner needs to make as much, or more money than I do.
 
 Their breaking statement: "You're so smart and going to be so successful. I could be your trophy husband and stay home."
@@ -61,8 +57,6 @@ Their breaking statement: "You're so smart and going to be so successful. I coul
 This would be a winning thing to say for the right need.  They didn't ask for the requirements first, clearly!
 
 Of course, in dating you can't ask for requirements. You just find out as you go.
-
-Breakthrough time!  I've always been confident about this and I should be just as confident with software design and creation because these are the SAME JOB.
 
 The "problem space" is the person looking for a soul mate and their needs in a life partner.
 
