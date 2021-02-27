@@ -111,7 +111,7 @@ What about the costs of storing and computing all of this new information about 
 
 What about packages shipped globally?
 
-You'll find lots of designs for this and they will have all have tradeoffs.
+You'll find lots of designs for this and they will all have tradeoffs.
 
 Just like you won't know enough technologies throughout your career unelss you keep your knowledge up-to-date, as a match-maker I would have to keep my bank of single people up-to-date.
 
@@ -125,7 +125,7 @@ This is the Nicole I will bring into the office.  She knows her single code and 
 
 I'm going to make some weird matches.  They are just dates though.  I'm not force-marrying them.
 
-One of them might get married and that would be great.  Most people just need a kick in the right direction.
+One of them might get married and live long happy lives together and that would be great.  Most people just need a kick in the right direction.
 
 That's why I got into this industry.  That's why I'm here.  Now go bring THE NICOLE to work on Monday.
 
