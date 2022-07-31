@@ -4,6 +4,9 @@ layout: default
 
 # Blog
 
+* 7/30/2022
+[How to Work from Home](/2022-07-30-work-from-home.html)
+
 * 9/13/2020
 [The Dating Approach to Software Design - Thoughts on Confidence](/2020-09-13-the-dating-approach-to-software-design.html)
 

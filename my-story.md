@@ -8,6 +8,10 @@ layout: default
 
 I wish everyone did a kind of history for their careers instead, so here's mine:
 
+* Moved to Austin, TX!  I picked Security Products team out of three options in Austin, TX.  I left behind my whole world in Bellevue/Seattle for sunnier skies and a chance to work in Security on a cool internal product that was one of my favorite internal tools at Amazon.
+
+* Moved to Outbound Communications Team so I could work alongside data scientists doing ML.  I thought ML was so cool I had to learn more.
+
 * Moved to Flex Account Management Team for the opportunity.  Always wanted to work in Transportation/Logistics/Operations at Amazon, but that sounded way over my head until now!
 
 * Moved to AWS WorkSpaces Client Team in the newly opened Bellevue office to cut down the commute.
