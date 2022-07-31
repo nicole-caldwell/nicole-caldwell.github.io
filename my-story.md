@@ -34,4 +34,4 @@ I wish everyone did a kind of history for their careers instead, so here's mine:
 
 * Went to UNC Chapel Hill not locking in that I wanted to be a Software Engineer just yet.
 
-* Took my first programming class in Junior year of High school and my second programming class in Senior year of High school.  I placed in the high performing group in my second programming class.  The class of abbout 30 was split up into 3 groups.  Group 1 was high performing and helped Group 3 that was struggling.  Group 2 continued the assignments at the regular pace.
+* Took my first programming class in Junior year of High school and my second programming class in Senior year of High school.  I placed in the high performing group in my second programming class.  The class of about 30 was split up into 3 groups.  Group 1 was high performing and helped Group 3 that was struggling.  Group 2 continued the assignments at the regular pace.
