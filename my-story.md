@@ -8,6 +8,8 @@ layout: default
 
 I wish everyone did a kind of history for their careers instead, so here's mine:
 
+* Left Amazon and went to a startup called Made Renovation.  I've always loved interior design.  When I bought my first home, a friend told me that the *only* things you can't change about a home are where it is located and how big the lot size is.  My own home renovation projects have been really exciting and I want other people to have that same feeling.
+
 * Moved to Austin, TX!  I picked Security Products team out of three options in Austin, TX.  I left behind my whole world in Bellevue/Seattle for sunnier skies and a chance to work in Security on a cool internal product that was one of my favorite internal tools at Amazon.
 
 * Moved to Outbound Communications Team so I could work alongside data scientists doing ML.  I thought ML was so cool I had to learn more.
